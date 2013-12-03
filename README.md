@@ -11,7 +11,7 @@ Current Features:
 
 
 
-Feature to come soon:
+Features to come soon:
 =========================
 
 - Quick print badges
