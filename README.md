@@ -6,7 +6,7 @@ A light Event Registration System initially made for ExpoLugha Project.
 Current Features:
 =========================
 
--Quick visitor's management (add & check visitors, quick typehead...)
+- Quick visitor's management (add & check visitors, quick typehead...)
 
 
 
